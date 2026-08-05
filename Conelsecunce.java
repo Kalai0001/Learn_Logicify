@@ -34,7 +34,8 @@ public class Conelsecunce {
                         count++;
                         k++;
                         continue;
-                    }k++;
+                    }
+                    k++;
                 }
             }
         }
