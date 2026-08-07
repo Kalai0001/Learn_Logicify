@@ -17,7 +17,8 @@ public class Palindrome{
         }
         if(tmp==rev){
             System.out.printf("Yes");
-        }else{
+        }
+        else{
             System.out.printf("No");
         }
     }
