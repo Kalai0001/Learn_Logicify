@@ -12,7 +12,8 @@ public class Strong{
         long res=strongnumber(n);
         if(res==temp){
             System.out.printf("Yes");
-        }else{
+        }
+        else{
             System.out.printf("No");
         }
     }
