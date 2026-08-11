@@ -34,6 +34,7 @@ public class Primefactor{
                         break;
                     }
                 }
+                
                 if(z==true){
                     System.out.printf("%d ",i);
                 }
