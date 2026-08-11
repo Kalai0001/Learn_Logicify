@@ -50,6 +50,7 @@ public class Nohalfswap{
                 char ch=arr2[i];
                 secondhalf=secondhalf+ch;
             }
+            
             finalswap=secondhalf+firsthalf;
         }
         return finalswap;
