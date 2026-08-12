@@ -22,7 +22,8 @@ public class Conelsecunce {
                         continue;
                     }k++;
                 }
-            }else{
+            }
+            else{
                 int temp = val;
                 while (temp>0) {
                      if(count >=n){
