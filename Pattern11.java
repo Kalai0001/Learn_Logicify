@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Pattern11{
     void main(int n){
         for(int i=n;i>=1;i--){
@@ -8,6 +9,7 @@ public class Pattern11{
             System.out.println();
         }
     }
+    
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
