@@ -15,6 +15,7 @@ public class Pattern10{
         int n=sc.nextInt();
         Pattern10 obj=new Pattern10();
         obj.main(n);
+
         sc.close();
     }
 }
