@@ -13,6 +13,7 @@ public class Pattern02{
         int n=sc.nextInt();
         Pattern02 obj=new Pattern02();
         obj.main(n);
+
         sc.close();
     }
 }
