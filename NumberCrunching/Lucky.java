@@ -19,7 +19,8 @@ public class Lucky{
         }
         if(flag==1){
             System.out.printf("YES");
-        }else{
+        }
+        else{
             System.out.printf("NO");
         }
     }
