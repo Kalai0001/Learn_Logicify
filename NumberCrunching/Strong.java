@@ -7,6 +7,7 @@ public class Strong{
         obj.strong(n);
         sc.close();
     }
+    
     void strong(long n){
         long temp=n;
         long res=strongnumber(n);
