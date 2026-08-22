@@ -5,7 +5,6 @@ public class Digitfrequency{
         long n=sc.nextLong();
         Digitfrequency obj=new Digitfrequency();
         obj.res(n);
-
         sc.close();
     }
     void res(long n){
