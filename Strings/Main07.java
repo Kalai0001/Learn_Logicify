@@ -8,6 +8,7 @@ public class Main07{
             s2 = s2 + s1.charAt(i);
         }
         System.out.printf("%s",s2);
+        
         sc.close();
     }
 }
