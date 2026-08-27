@@ -14,6 +14,7 @@ public class Main02{
             }
         }
         System.out.println(count);
+        
         sc.close();
     }
 }
