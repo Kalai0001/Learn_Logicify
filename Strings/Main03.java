@@ -13,6 +13,7 @@ public class Main03{
                 ccount++;
             }
         }
+        
         System.out.println(ccount);
         sc.close();
     }
