@@ -32,6 +32,7 @@ public class Main26{
                 arr[i][j] = sc.nextLong();
             }
         }
+        
         main(r,c,arr);
         sc.close();
     }
