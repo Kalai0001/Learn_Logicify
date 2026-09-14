@@ -1,4 +1,4 @@
-import java.util.Scanner;
+80import java.util.Scanner;
 
 public class Main06 {
     
@@ -42,6 +42,7 @@ public class Main06 {
                 arr[i][j] = sc.nextLong();
             }
         }
+
         main(r, c, arr);
         sc.close();
     }
