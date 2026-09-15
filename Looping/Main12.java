@@ -9,6 +9,7 @@ public class Main12{
             sum=sum+i;
         }
         System.out.printf("%d",sum);
+
         sc.close();
     }
 }
