@@ -11,6 +11,7 @@ public class Main03{
                     System.out.print(arr[i][c - 1 - j]+" ");
                 }
             }
+            
             System.out.println();
         }
     }
