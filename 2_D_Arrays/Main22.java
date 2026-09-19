@@ -32,6 +32,7 @@ public class Main22{
                 arr2[i][j] = sc.nextLong();
             }
         }
+        
         main(r,c,arr1,arr2);
         sc.close();
     }
