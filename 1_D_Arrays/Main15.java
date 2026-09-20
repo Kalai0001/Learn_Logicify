@@ -29,7 +29,6 @@ public class Main15{
         long first=sc.nextLong();
         long last=sc.nextLong();
         ans(arr,first,last);
-        
         sc.close();
     }
 }
