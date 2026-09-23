@@ -21,6 +21,7 @@ public class Main04{
                 num++;
                 
             }
+            
             System.out.println();
         }
     }
