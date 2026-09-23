@@ -7,6 +7,7 @@ public class Main13{
         for(int i=1;i<=num;i++){
             product=product*i;
         }
+        
         System.out.printf("%d",product);
         sc.close();
     }
