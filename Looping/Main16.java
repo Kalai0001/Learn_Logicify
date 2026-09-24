@@ -9,6 +9,7 @@ public class Main16{
         }else{
             System.out.printf("No");
         }
+
         sc.close();
     }
 }
