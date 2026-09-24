@@ -10,7 +10,6 @@ public class Main20{
             }
         }
         System.out.printf("%d",sum);
-
         sc.close();
     }
 }
