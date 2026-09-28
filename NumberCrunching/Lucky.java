@@ -30,6 +30,7 @@ public class Lucky{
         String s=sc.nextLine();
         Lucky obj=new Lucky();
         obj.lucky(s);
+        
         sc.close();
     }
 }
