@@ -11,6 +11,7 @@ public class Algorithm_196{
         long rev=ans(n);
         System.out.print(rev);
     }
+    
     public static long ans(long n){
         long temp=n;
         long rev1=0;
