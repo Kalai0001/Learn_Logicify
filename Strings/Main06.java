@@ -27,6 +27,7 @@ public class Main06{
                 System.out.printf("Same");
             }
         }
+        
         sc.close();
     }
 }
