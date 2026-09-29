@@ -14,12 +14,6 @@ public class Main25{
         }
         
         for(char ch : map.keySet()){
-            // int count = 0;
-            // for(char x : arr){
-            //     if(ch == x ){
-            //         count++;
-            //     }
-            // }
             System.out.println(ch+":"+map.get(ch));
         }
         sc.close();
