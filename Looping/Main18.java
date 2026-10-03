@@ -10,7 +10,6 @@ public class Main18{
             }
         }
         System.out.printf("%d ",count);
-
         sc.close();
     }
 }
