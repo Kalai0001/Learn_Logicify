@@ -19,7 +19,6 @@ public class Main15{
         if(flag!=1){
             System.out.printf("No");
         }
-
         sc.close();
     }
 }
